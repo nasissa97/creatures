@@ -1,4 +1,4 @@
-from model.explorer import Explorer
+from models.explorer import Explorer
 
 _explorers = [
   Explorer(name="John Doe",
