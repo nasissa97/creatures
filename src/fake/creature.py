@@ -1,12 +1,12 @@
-from model.creature import Creature
+from models.creature import Creature
 
 _creatures = [
-  Creature(name="Yeti",
+  Creature(name="yetti",
            aka="Abominable Snowman",
            country="CN",
            area="Himalayas",
            description="Hirsute Himalayan"),
-  Creature(name="Bigfoot",
+  Creature(name="bigfoot",
            description="Yeti's Cousin Eddie",
            country="US",
            area="*",
